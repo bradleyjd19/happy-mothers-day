@@ -3,15 +3,19 @@ body {
 }
 
 #tagline {
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 #imgRow {
-  margin-top: 30px;
+  margin-top: 20px;
+}
+
+#family {
+  display: none;
 }
 
 #button {
-  margin-top: 30px;
+  margin-top: 20px;
   font-size: 30px;
   background-color: cornflowerblue
 }
