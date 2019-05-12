@@ -1,0 +1,22 @@
+body {
+  font-family: 'Indie Flower', cursive;
+}
+
+#tagline {
+  margin-top: 50px;
+}
+
+#imgRow {
+  margin-top: 30px;
+}
+
+#button {
+  margin-top: 30px;
+  font-size: 30px;
+  background-color: cornflowerblue
+}
+
+#message {
+  margin-top: 20px;
+  padding: 0 15px;
+}
